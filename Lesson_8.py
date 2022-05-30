@@ -5,4 +5,3 @@ class Data:
         self.y = year
     @classmethod
     def data(cls):
-
