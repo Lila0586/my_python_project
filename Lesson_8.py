@@ -6,4 +6,3 @@ class Data:
     @classmethod
     def data(cls):
 
-
